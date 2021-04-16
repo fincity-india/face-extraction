@@ -1,0 +1,14 @@
+asgiref==3.3.4
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.2
+face-extraction==0.0.4
+idna==2.10
+numpy==1.20.2
+opencv-python==4.5.1.48
+Pillow==8.2.0
+pkg-resources==0.0.0
+pytz==2021.1
+requests==2.25.1
+sqlparse==0.4.1
+urllib3==1.26.4
